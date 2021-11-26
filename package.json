@@ -1,0 +1,10 @@
+{
+  "name": "app1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Don de Dieu Bolenge <dondedieubolenge@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
